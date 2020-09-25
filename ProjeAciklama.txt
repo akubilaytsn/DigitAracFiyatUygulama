@@ -1,0 +1,16 @@
+Merhaba Kubilay Bey,
+ 
+Senden 1300 motor Golf arabanın OTV ve KDV dahil fiyatını hesaplamanı ve ekrana tablo olarak listemesini rica ediyorum.  Hesaplama Normal,
+ Engelli Birey için ayrı hesaplanmalı.
+ 
+Zorunlu Kurallar:  
+Ekteki gibi excel import edilecek.
+Dolar kuru değişimini gün gün uygulamalısınız.
+https://www.generali.com.tr/arac-otv-ve-kdv-hesaplama ÖTV KDV hesaplama formülü. linkte bulunuyor.
+ 
+Olsa iyi olur : Aylık ortalama fiyat eğrisini line chart grafiğe dökmen artı olacaktır.
+ 
+Sorun olursa lütfen çekinme.
+ 
+İyi çalışmalar.
+Murat Dudak
